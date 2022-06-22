@@ -15,8 +15,11 @@ Requirements:
 Controls:
 
  [Down] - Drop Down
+ 
  [Left] - Move Left
+ 
 [Right] - Move Right
+
    [Up] - Rotate
 
 The scores of the player and saved in the "leaderboard" file in the "dist" folder.
